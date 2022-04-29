@@ -26,7 +26,15 @@ class Achievements {
 		["Hyperactive",					"Finish a Song without going Idle.",				'hype',					false],
 		["Just the Two of Us",			"Finish a Song pressing only two keys.",			'two_keys',				false],
 		["Toaster Gamer",				"Have you tried to run the game on a toaster?",		'toastie',				false],
-		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true]
+		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true],
+		["Burnt Dogs",					"Beat Dave's Week on Hard with no Misses.",	'daveweek_nomiss',				 false],
+		["Corn Stealer",					"Beat Bambi's Week on Hard with no Misses.",	'bambiweek_nomiss',				 false],
+		["2v1",					"Beat Finale Week on Hard with no Misses.",	'finaleweek_nomiss',				 false],
+		["Cheater!",					"Beat Expunged's Week on Hard with no Misses.",	'expungedweek_nomiss',				 false],
+		["Okay..",					"Beat Dave's Week with a rating of 100%.",	'daveweek_pfc',				 false],
+		["Blocked",					"Beat Bambi's Week with a rating of 100%.",	'bambiweek_pfc',				 false],
+		["Rap God",					"Beat Finale Week with a rating of 100%.",	'finaleweek_pfc',				 false],
+		["how the fu-",					"PFC Supernovae.",	'supernovae_pfc',				 false]
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 
