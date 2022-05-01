@@ -770,6 +770,9 @@ class FunkinLua {
 		Lua_helper.add_callback(lua, "precacheSound", function(name:String) {
 			CoolUtil.precacheSound(name);
 		});
+        	Lua_helper.add_callback(lua, "openBrowser", function(name:String) {
+    		        CoolUtil.browserLoad(name);
+        });
 		Lua_helper.add_callback(lua, "precacheMusic", function(name:String) {
 			CoolUtil.precacheMusic(name);
 		});
