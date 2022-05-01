@@ -1,20 +1,20 @@
 {
 	"songs": [
-		["House", "dad", [255, 120, 191]],
-		["Insanity", "dad", [255, 120, 191]],
+		["House", "dave", [15, 95, 255]],
+		["Insanity", "dave", [15, 95, 255]],
 		["Polygonized", "dad", [255, 120, 191]]
 	],
 
 	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "school",
+	"weekBackground": "stage",
 
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
+	"storyName": "Dave's Fun Rapping Battle!",
+	"weekBefore": "week6",
+	"weekName": "daveweek",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
