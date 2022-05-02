@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Blocked", "bambi", [15, 95, 255]],
+		["Corn Theft", "bambi", [15, 95, 255]],
+		["Maze", "bambi", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Mr. Bambi's Fun Corn Maze!",
+	"weekBefore": "daveweek",
+	"weekName": "bambiweek",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
