@@ -161,7 +161,13 @@ class ChartingState extends MusicBeatState
 		8,
 		12,
 		16,
-		24
+		24,
+		32,
+		48,
+		64,
+		128,
+		256,
+		512
 	];
 	#else //The grid gets all black when over 1/12 snap
 	var zoomList:Array<Float> = [
